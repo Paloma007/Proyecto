@@ -1,7 +1,13 @@
 Introducción
 
-El presente documento sintetiza el trabajo realizado...
+El presente documento sintetiza el trabajo realizado... en 2000
 
-Colaboradores
+Colaboradores a este proyecto:
+
+Pepito
+Juanito
+Benito
+
 
 Resumen
+Fin...
